@@ -1,6 +1,6 @@
 ## Hotel-Occupancy-Forecast
 
-This project looks at forecasting different hotels in python using Nixtla. There are multiple different types of hotels that are being forecasted such as vacation hotels, hotels in the city, and other types of hotels. 
+This project looks at forecasting different hotels in Python using Nixtla. There are multiple different types of hotels that are being forecasted such as vacation hotels, hotels in the city, and other types of hotels. 
 
 This project dives deep into the EDA process preformed using pandas and seaborn to do the preprecessing and remove non-complete hotel data as well as get the data in a suitable format. There are multiple different models used to determine what predicts the hotel occupancy right and then use the best model for each hotel to predict the next months occupancy rates.
 
